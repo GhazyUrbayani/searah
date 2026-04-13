@@ -4,10 +4,8 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Searah+-+Full-Stack+Web+App;React+%2B+TypeScript+%2B+Express.js;Real-time+%7C+Drizzle+ORM+%7C+SQLite" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=SeArah+-+Full-Stack+Web+App;React+%2B+TypeScript+%2B+Express.js;Real-time+%7C+Drizzle+ORM+%7C+SQLite" alt="Typing SVG">
   </a>
-
-  <br /><br />
 
   <p>
     <em>
