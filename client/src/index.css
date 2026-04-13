@@ -1,3 +1,5 @@
+@import url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@400,500,600,700,800&f[]=plus-jakarta-sans@400,500,600,700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -100,8 +102,6 @@
     line-height: 1.2;
   }
 }
-
-@import url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@400,500,600,700,800&f[]=plus-jakarta-sans@400,500,600,700&display=swap');
 
 /* Smooth transitions */
 * {
