@@ -4,14 +4,14 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Searah+—+Full-Stack+Web+App;React+%2B+TypeScript+%2B+Express.js;Real-time+%7C+Drizzle+ORM+%7C+SQLite" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Searah+-+Full-Stack+Web+App;React+%2B+TypeScript+%2B+Express.js;Real-time+%7C+Drizzle+ORM+%7C+SQLite" alt="Typing SVG">
   </a>
 
   <br /><br />
 
   <p>
     <em>
-      A modern full-stack monorepo application built with React, TypeScript, and Express.js —
+      A modern full-stack monorepo application built with React, TypeScript, and Express.js -
       featuring real-time WebSocket communication, Drizzle ORM, and seamless Vercel deployment.
     </em>
   </p>
@@ -52,15 +52,15 @@
 
 ## ✨ Features
 
-- ⚛️ **React 18 + Vite** — Lightning-fast frontend with hot module replacement
-- 🔒 **Authentication** — Session-based auth with Passport.js (local strategy)
-- 🗄️ **Database** — Drizzle ORM with SQLite (`better-sqlite3`) for lightweight persistence
-- 🔄 **Real-time** — WebSocket integration via `ws` for live updates
-- 🎨 **UI Components** — Full Radix UI + shadcn/ui component library with Tailwind CSS
-- 📦 **Monorepo** — Shared `shared/` directory for types and schemas used across client & server
-- 🌐 **Vercel Deploy** — Ready-to-deploy with `vercel.json` configuration
-- 📊 **Data Viz** — Recharts integration for charts and analytics
-- 🧩 **Form Handling** — React Hook Form + Zod validation
+- ⚛️ **React 18 + Vite** - Lightning-fast frontend with hot module replacement
+- 🔒 **Authentication** - Session-based auth with Passport.js (local strategy)
+- 🗄️ **Database** - Drizzle ORM with SQLite (`better-sqlite3`) for lightweight persistence
+- 🔄 **Real-time** - WebSocket integration via `ws` for live updates
+- 🎨 **UI Components** - Full Radix UI + shadcn/ui component library with Tailwind CSS
+- 📦 **Monorepo** - Shared `shared/` directory for types and schemas used across client & server
+- 🌐 **Vercel Deploy** - Ready-to-deploy with `vercel.json` configuration
+- 📊 **Data Viz** - Recharts integration for charts and analytics
+- 🧩 **Form Handling** - React Hook Form + Zod validation
 
 ---
 
